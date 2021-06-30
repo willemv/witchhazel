@@ -465,6 +465,119 @@
                 <string>#C5A3FF</string>
             </dict>
         </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc header 1</string>
+            <key>scope</key>
+            <string>markup.heading.heading-1.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFF352</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc header 2</string>
+            <key>scope</key>
+            <string>markup.heading.heading-2.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFF352</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc header 3</string>
+            <key>scope</key>
+            <string>markup.heading.heading-3.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFF352</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc header 4</string>
+            <key>scope</key>
+            <string>markup.heading.heading-4.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFF352</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc header 5</string>
+            <key>scope</key>
+            <string>markup.heading.heading-5.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFF352</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc bold</string>
+            <key>scope</key>
+            <string>markup.bold.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F8F8F2</string>
+                <key>fontStyle</key>
+                <string>bold</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc italic</string>
+            <key>scope</key>
+            <string>markup.italic.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#F8F8F2</string>
+                <key>fontStyle</key>
+                <string>italic</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc inline code</string>
+            <key>scope</key>
+            <string>markup.raw.monospace.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#FFF352</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>AsciiDoc list</string>
+            <key>scope</key>
+            <string>markup.list.bullet.asciidoc</string>
+            <key>settings</key>
+            <dict>
+                <key>foreground</key>
+                <string>#C5A3FF</string>
+            </dict>
+        </dict>
     </array>
     <key>uuid</key>
     <string>D8D5E82E-3D5B-46B5-C0DE-8C841C21347D</string>
